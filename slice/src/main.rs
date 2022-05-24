@@ -23,7 +23,7 @@ fn main() {
     }
 }
 
-// using the &String type is unnessesary since we can use &str
+// using the &String type is unnecessary since we can use &str
 // fn first_word(s: &String) -> &str { 
 fn first_word(s: &str) -> &str {
 
