@@ -17,7 +17,7 @@ fn main() {
     user1.email = String::from("rustacean@gmail.com");
 
     // field init shorthand
-    fn build_user(email: String, username: String) -> User {
+    fn build_user(email: String, username: String) -> () {
         User {
             email,
             username,
