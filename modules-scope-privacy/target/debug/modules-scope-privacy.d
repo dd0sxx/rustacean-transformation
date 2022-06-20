@@ -1,0 +1,1 @@
+/Users/theo/Documents/rustacean-transformation/modules-scope-privacy/target/debug/modules-scope-privacy: /Users/theo/Documents/rustacean-transformation/modules-scope-privacy/src/garden/vegetables.rs /Users/theo/Documents/rustacean-transformation/modules-scope-privacy/src/garden.rs /Users/theo/Documents/rustacean-transformation/modules-scope-privacy/src/main.rs
